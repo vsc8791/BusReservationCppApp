@@ -1,0 +1,58 @@
+Please share it across and ask everyone to complete the assignments given below :
+
+List of C++ Projects :
+
+1) Ticket Reservation using File Handling
+Operations should be performed -
+a) Add a New Tour Bus
+b) Show Selected Bus
+c) Display All Buses
+d) Delete a Bus
+e) Book a ticket
+f) Display Booked Tickets
+
+
+2) Bank Management System - console app
+Operations should be performed -
+a) Create new account
+b) View Customer list
+c) Update information of existing account
+d) Check the details of an Existing account
+e) For transactions
+f) Remove existing transactions
+
+3) Quiz Application System - Console App
+Operations should be performed -
+a) Enter Student Name and Roll No
+b) Shuffle MCQs
+c) Show status for pass and fail
+d) Choice based system
+
+4) Food Billing System
+Operations should be performed -
+a) Start your order
+b) Order Veg or Non Veg
+c) Selection of Items
+d) Generation of Bill
+e) Print the receipt using File Handling
+
+5) Super Markets Billing System
+Operations should be performed -
+a) Make different use cases e.g. Admin and Customer
+b) Make a login screen
+c) Admin can add, modify , delete and retrieve all the products
+d) Customer can see the list of products and can choose only
+e) Calculation of quantities and number of items should be business logic
+f) Print the receipt using File Handling
+
+
+
+
+Bests,
+Vaibhav Singh Chauhan
+Java Technical Lead
+LTIMindtree
+
+vsc8791@outlook.com
+vschauhan.8791@gmail.com
+https://www.linkedin.com/in/vsc8791/
